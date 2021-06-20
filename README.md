@@ -1,7 +1,7 @@
 # Yazilim yapımı final projesi
 ara sınav projesinin devamı
 
-youtube ekran videosu linki:
+youtube ekran videosu linki:https://youtu.be/_6PsclKHCCo
  
 Planlama Oyunu
 
