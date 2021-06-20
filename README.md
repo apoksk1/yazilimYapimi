@@ -48,13 +48,15 @@ Muhasebe_kullanıcısı aracılık ücreti yüzde 1 olsun ve bu tutar alıcıdan
                          
 
                           ·  Ekranlar
-Login Ekranı
+-Login Ekranı
 
-Alıcı ve Satıcının Bilgi Giriş Ekranı
+-Alıcı ve Satıcının Bilgi Giriş Ekranı
 
-Adminin ürün ve para onayı kısmı
+-Adminin ürün ve para onayı kısmı
 
-Fiyatın Belirlenmesi kısmı
+-Fiyatın Belirlenmesi kısmı
+
+
 
 
 
