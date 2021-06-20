@@ -1,6 +1,7 @@
-# Yazilim yapımı finalprojesi
-ara sınavın devamı
- youtube ekran videosu linki:
+# Yazilim yapımı final projesi
+ara sınav projesinin devamı devamı
+
+youtube ekran videosu linki:
  
 Planlama Oyunu
 
