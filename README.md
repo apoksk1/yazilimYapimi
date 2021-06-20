@@ -1,5 +1,5 @@
 # Yazilim yapımı final projesi
-ara sınav projesinin devamı devamı
+ara sınav projesinin devamı
 
 youtube ekran videosu linki:
  
