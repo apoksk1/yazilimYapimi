@@ -30,6 +30,7 @@ d. Alıcının sahip olduğu paranın Admin onayı ile sisteme eklenmesi (para t
                           · User Story-4
 
 e. Fiyatın oluşması ile alıcının hesabına parasının olması ve satıcının hesabına ise ürünün olması lazım. Eğer alıcının almak istediği ürün var ise otomatik olarak alım
+
                          · User Story-5
                          
 Alıcı bir fiyat belirleyebilecek, eğer istediği fiyattan satan kişi olmaz ise işlem gerçekleşmeyecek. Alım isteği ancak alıcının verdiği fiyattan ürünü satan bir kişi olana kadar bekleyecek                         
